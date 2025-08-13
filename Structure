@@ -1,0 +1,16 @@
+app/
+ ├── java/com/example/registrationapp/
+ │    ├── MainActivity.java
+ │    ├── DisplayActivity.java
+ │    ├── DatabaseHelper.java
+ │    ├── UserModel.java
+ │
+ ├── res/
+ │    ├── layout/
+ │    │    ├── activity_main.xml
+ │    │    ├── activity_display.xml
+ │    ├── drawable/
+ │    │    ├── edittext_bg.xml
+ │    │    ├── table_border.xml
+ │
+ ├── AndroidManifest.xml
